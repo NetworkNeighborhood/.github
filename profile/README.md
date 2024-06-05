@@ -4,4 +4,3 @@ Members of Network Neighborhood:
 - [Aubrey P. (aubymori)](//github.com/aubymori)
 - [Isabella (kawapure)](//github.com/kawapure)
 - [Taniko Yamamoto (kirasicecreamm/YukisCoffee)](//github.com/YukisCoffee)
-- [Travis (travy-patty)](//github.com/travy-patty)
